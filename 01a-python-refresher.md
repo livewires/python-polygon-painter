@@ -4,7 +4,7 @@ If you've already done some coding before this is a quick refresher on some ways
 
 ## Whitespace
 
-While some programming languages use brackets, Python uses indentation to indicate a block of code. For example, 
+While some programming languages use brackets, Python uses whitespace (indentation) to indicate a block of code. For example:
 
 ```
 a = 1
@@ -16,18 +16,18 @@ else:
     print('b = ' + str(b))
     print("b is bigger than a")
 ```
-This will print out
+This will print out...
 
 ```
 b = 2
 b is bigger than a
 ```
-because those print statement are indended under the else statement.
+...because those `print` statements are indented under the `else` statement.
 
 
 ## If statements
 
-In Python, there are no brackets around the condition of the if statement and else if are written using `elif`:
+In Python, there are no brackets around the condition of the `if` statement. Also "else if" statements are written using `elif` synax:
 
 ```
 if a > b:
@@ -47,8 +47,6 @@ To write a comment in Python you need to start the line with a #
 ```
 # This is a comment
 ```
-
-Python does not support multi-line comments.
 
 ## Next
 

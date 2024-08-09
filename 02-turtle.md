@@ -8,7 +8,7 @@ Lets start by creating a new script called `Turtle.py`. In order to use Turtle w
 ```
 import turtle as t
 ```
-This means we don't have to type `Turtle` every time we want to use its function - we can just use `t` instead.
+This means we don't have to type `turtle.` in front of a function name every time we want to use one of the functions from the library - we can just use `t.` instead as you will see below.
 
 Now we can start using Turtle!
 
@@ -208,13 +208,13 @@ The second item is the height:
 height = size[1]
 ```
 
-You can also use the same function to set the screen size to what ever you would like.
+You can also use the same function to set the screen size to whatever you would like.
 
 ```
 t.screensize(100, 200)
 ```
 
-This will make the screen a rectangle 100 wide by 200 tall.
+This will make the screen a rectangle 100 pixels wide by 200 pixels tall.
 
 ### Other screen functions
 
