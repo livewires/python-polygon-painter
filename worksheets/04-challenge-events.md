@@ -66,4 +66,4 @@ Create a new script (called `KeyboardTurtle.py`for example) that will allow the 
 
 ## Next
 
-Fancy another? [Challenge - Letters](04-challenge-letters.md)
+Fancy another? [Challenge - Letters](05-challenge-letters.md)
