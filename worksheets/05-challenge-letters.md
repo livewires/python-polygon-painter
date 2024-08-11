@@ -1,6 +1,6 @@
 # Challenge - Letters
 
-Time for a second challenge! You don't have to use Turtle to draw shapes, you can use it to draw anything you like.
+Time for another challenge! You don't have to use Turtle to draw shapes, you can use it to draw anything you like.
 
 ## The challenge
 
