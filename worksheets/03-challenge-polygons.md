@@ -1,8 +1,8 @@
-# Challenge
+# Challenge - Polygons
 
 The time has come to put your learning into action!
 
-Create a new script called `Challenge.py` that uses Turtle to draw regular polygons.
+Create a new script called `Polygons.py` that uses Turtle to draw regular polygons.
 
 <details> <summary> <b> What is a polygon? </b> </summary>
 
@@ -78,4 +78,4 @@ With this new information, can you extend your script to draw some circles as we
 
 ## Next
 
-Fancy another? [Challenge 2](04-challenge2.md)
+Fancy another? [Challenge - Events](04-challenge-events.md)

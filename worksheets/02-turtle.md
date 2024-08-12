@@ -240,4 +240,4 @@ name = screen.textinput("Name", "Please enter your name") # Ask the user to ente
 
 ## Next
 
-Next up: [Challenge](03-challenge.md)
+Next up: [Challenge](03-challenge-polygons.md)
