@@ -8,13 +8,13 @@ Already done some programming before? If you like, you can skip this page and mo
 
 A popular way to start coding is to write a 'Hello World' script so that is where we will start!
 
-Create a new file called `Script.py` and on the first line type:
+Open up VS Code on the PC you are using and open up your named folder. Create a new file called `Script.py` and on the first line type:
 ```
 print("Hello world!")
 ```
 Anything inside the brackets of a `print` statement will get outputted to the terminal when the script is run.
 
-To run the script type `python Script.py` in the terminal. You should see `Hello world!`.
+To run the script we will need to open a terminal. If a terminal is not already open at the bottom on VS Code, click Terminal in the top bar and then New Terminal. In the terminal `python3 Script.py`. You should see `Hello world!`.
 
 > 💡 Exercise: Try adding a new `print` statement that will display your name in the terminal.
 
