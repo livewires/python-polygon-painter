@@ -244,6 +244,14 @@ random.seed(2) # Initialize the random number generator with the seed '2'
 
 > 💡 Exercise: Now try running your script lots of times and see how that changes what numbers it produces.
 
+## Comments
+
+When we are writing code it can be useful to add more information about what we have written to help other people understand or even to remind us! We can do this by using comments. A comment is a line that will be ignored by the computer when running the script. To write a comment in Python you need to start the line with a #
+
+```
+# This is a comment
+```
+
 ## Next
 
 Next up: [Turtle](02-turtle.md)
