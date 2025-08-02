@@ -14,7 +14,7 @@ print("Hello world!")
 ```
 Anything inside the brackets of a `print` statement will get outputted to the terminal when the script is run.
 
-To run the script we will need to open a terminal. If a terminal is not already open at the bottom on VS Code, click Terminal in the top bar and then New Terminal. In the terminal `python3 Script.py`. You should see `Hello world!`.
+To run the script we will need to open a terminal. If a terminal is not already open at the bottom on VS Code, click Terminal in the top bar and then New Terminal. In the terminal type `python3 Script.py`. You should see `Hello world!`.
 
 > 💡 Exercise: Try adding a new `print` statement that will display your name in the terminal.
 
