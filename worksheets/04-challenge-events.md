@@ -49,6 +49,20 @@ t.listen()
 
 This will call the function `move_up` function when the up key is pressed.
 
+### On drag
+
+If you want to something to happen when you drag the turtle you can use the `ondrag` function. As with the above functions, it takes a function that will get called when the turtle is dragged. Using this, you can allow the user to click and drag on the turtle to draw free hand:
+
+```
+import turtle as t
+
+# Get the screen
+screen = t.getscreen()
+
+# Move the turtle on drag
+t.ondrag(t.goto)
+```
+
 ## The challenge
 
 Copy your script from the previous challenge (call it `PolygonEvents.py` for example) and extend it to use event functions mentioned above:
