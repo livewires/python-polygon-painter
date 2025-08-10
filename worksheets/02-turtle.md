@@ -121,7 +121,7 @@ t.color(255, 192, 203) # Change the pen colour to the colour with RGB values 255
 ```
 You can find the name, hex value or RGB value of a colour by using a online [colour picker](https://www.google.co.uk/search?q=colour+picker).
 
-**Note:** to use the RGB values you need to set the colour mode turtle uses by adding `t.colormode(255)` before you call `t.color()`.
+**Note:** to use the RGB values you need to set the colour mode turtle uses by adding `t.colormode(255)` before you call `t.color()`. All the RGB values need to be between 0 and 255.
 
 ### Fill
 
@@ -135,7 +135,7 @@ t.fillcolor("#ffc0cb") # Change the fill colour to the colour with HEX value #ff
 t.fillcolor(255, 192, 203) # Change the fill colour to the colour with RGB values 255, 192 and 203
 ```
 
-The fill colour does not have to be the same as the pen colour.
+The fill colour does not have to be the same as the pen colour. If you want to set a different pen and fill colour, you should set the pen colour first and then the fill colour.
 
 Then before you draw a closed shape call `begin_fill()`
 
