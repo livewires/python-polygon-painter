@@ -13,3 +13,7 @@ You could do this by each turn, a turtle goes a random distance forwards and the
 - Draw a finish line on the screen
 - Draw lanes on the screen
 - Start the race when a key is pressed on the keyboard
+
+## Next
+
+Fancy another? [More Challenges](05-more-challenges.md)
