@@ -14,3 +14,7 @@ Hint: you can draw fireworks as lines coming out from a central point.
 ## Extension
 
 Using what you learnt on the Events challenge, could you make the fireworks be drawn where the user clicks?
+
+## Next
+
+Fancy another? [More Challenges](05-more-challenges.md)
