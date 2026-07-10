@@ -2,8 +2,8 @@
 
 Finished the first two challenges? Why not pick another to try?
 
-- [Challenge - Fireworks](04-challenge-events.md)
-- [Challenge - Golf](04-challenge-events.md)
-- [Challenge - Flags](04-challenge-events.md)
-- [Challenge - Race](04-challenge-events.md)
-- [Challenge - Letters](04-challenge-events.md)
+- [Challenge - Fireworks](06-challenge-fireworks.md)
+- [Challenge - Golf](07-challenge-golf.md)
+- [Challenge - Flags](08-challenge-flags.md)
+- [Challenge - Race](09-challenge-race.md)
+- [Challenge - Letters](10-challenge-letters.md)
