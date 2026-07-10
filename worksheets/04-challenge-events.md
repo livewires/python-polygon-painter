@@ -80,4 +80,4 @@ Create a new script (called `KeyboardTurtle.py`for example) that will allow the 
 
 ## Next
 
-Fancy another? [Challenge - Letters](05-challenge-letters.md)
+Fancy another? [More Challenges](05-more-challenges.md)
