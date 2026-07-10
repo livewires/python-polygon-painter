@@ -8,7 +8,7 @@ You could do this by each turn, a turtle goes a random distance forwards and the
 
 ## Extension
 
-- Every few turns a turtle could go backwards or a bigger distance forwards
+- To add more excitement, every few turns a turtle could go backwards or a bigger distance forwards
 - Run the race multiple times and keep track of how many times each turtle wins
 - Draw a finish line on the screen
 - Draw lanes on the screen
